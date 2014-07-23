@@ -9,7 +9,6 @@ the cluster.
 - `matlab`: examples for Octave/MATLAB
 - `oar`: examples scripts interacting with the OAR job system
 
-Please see the [wiki](https://github.com/ins-amu/cluster/wiki)
- for extra details, and [let us know](https://github.com/ins-amu/cluster/issues) 
-if you find any problems.
+Get started by heading over to the [wiki](https://github.com/ins-amu/cluster/wiki)
+, and [let us know](https://github.com/ins-amu/cluster/issues) if you have any problems.
 
