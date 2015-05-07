@@ -8,3 +8,6 @@ use it, just `source /home/duke/gcc492/activate`.
 which add the `bin/` to your path and adds a linker flag so
 that the binaries will use the newer C++ standard library 
 implementation.
+
+To run executables produced by the newer compiler you may need
+to `export LD_LIBRARY_PATH=/home/duke/gcc492/lib64/:$LD_LIBRARY_PATH`.
