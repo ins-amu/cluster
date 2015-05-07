@@ -8,6 +8,7 @@ can also be used on the CPUs.
 
 ## Reading
 
+- http://wiki.tiker.net/OpenCLHowTo
 - http://www.ks.uiuc.edu/Research/gpu/files/upcrc_opencl_lec1.pdf
 - http://www.cc.gatech.edu/~vetter/keeneland/tutorial-2011-04-14/06-intro_to_opencl.pdf
 - http://stackoverflow.com/questions/2423825/custom-types-in-opencl-kernel
