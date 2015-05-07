@@ -82,3 +82,12 @@ Then you forgot to `oarsub` onto a compute node.
 [Simple-OpenCL](https://code.google.com/p/simple-opencl) is a extremely simplified
 API for C programmers, requiring just a few lines to launch kernels. See the 
 [manual](https://code.google.com/p/simple-opencl/wiki/Manual) for details.
+
+## Kernels
+
+## Random numbers
+
+PyOpenCL includes the [RANLUXCL](https://bitbucket.org/ivarun/ranluxcl/) generator.
+
+A simpler generator [MWC64X](http://cas.ee.ic.ac.uk/people/dt10/research/rngs-gpu-mwc64x.html)
+is also available.
