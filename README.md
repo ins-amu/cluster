@@ -4,6 +4,7 @@ This repo contains documentation and examples for using
 the cluster.
 
 - [`doc`](doc): general documentation on architecture of cluster and how to use it
+- [`mrtrix3`](mrtrix3): using MRtrix3 software
 - [`ssh`](ssh): how to access the cluster over SSH
 - `bin`: convenient scripts
 - `python`: examples for Python
