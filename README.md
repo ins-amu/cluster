@@ -3,13 +3,13 @@
 This repo contains documentation and examples for using 
 the cluster.
 
+- [`oar`](oar): examples scripts interacting with the OAR job system
 - [`doc`](doc): general documentation on architecture of cluster and how to use it
 - [`mrtrix3`](mrtrix3): using MRtrix3 software
 - [`ssh`](ssh): how to access the cluster over SSH
 - `bin`: convenient scripts
 - `python`: examples for Python
-- `matlab`: examples for Octave/MATLAB
-- `oar`: examples scripts interacting with the OAR job system
+- [`matlab`](matlab): examples for Octave/MATLAB
 - [`opencl`](opencl): intro, examples on using OpenCL
 
 See below or get started by heading over to the [wiki](https://github.com/ins-amu/cluster/wiki)
